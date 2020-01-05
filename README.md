@@ -1,6 +1,8 @@
 Description
 Basic Topic: Comparison of Crime Rates in Ohio and Effects on Housing Prices
 
+Team Members : Tasneem Talawalla-Vora, Maria Wisco, Taylor Breychak
+
 Data Analysis:
 See correlation between crime rates housing price index. 
 Correlations between different types of crime in areas (focusing on violent crime)
